@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioVerify-TOTP", "TwilioVerify-TOTP\TwilioVerify-TOTP.csproj", "{567484F9-6F6F-4E45-94F7-C762DB0ED2DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567484F9-6F6F-4E45-94F7-C762DB0ED2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567484F9-6F6F-4E45-94F7-C762DB0ED2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567484F9-6F6F-4E45-94F7-C762DB0ED2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567484F9-6F6F-4E45-94F7-C762DB0ED2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C08430A-08C2-4DCA-8332-F49CDE515EDF}
+	EndGlobalSection
+EndGlobal
